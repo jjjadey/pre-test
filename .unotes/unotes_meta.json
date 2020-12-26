@@ -5,7 +5,20 @@
     "quiz1": {
       "name": "quiz1",
       "isOrdered": true,
-      "folders": {},
+      "folders": {
+        "public": {
+          "name": "public",
+          "isOrdered": true,
+          "folders": {},
+          "files": {}
+        },
+        "src": {
+          "name": "src",
+          "isOrdered": true,
+          "folders": {},
+          "files": {}
+        }
+      },
       "files": {}
     },
     "quiz2": {
