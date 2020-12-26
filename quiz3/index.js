@@ -1,9 +1,10 @@
 const Axios = require('axios');
 const url = "https://codequiz.azurewebsites.net/";
-const reqColName = 'Bid';
+const reqColName = 'Nav';
 const columnName = ['Fund Name', 'Nav', 'Bid', 'Offer', 'Change'];
 const rowName = ['B-INCOMESSF', 'BM70SSF', 'BEQSSF', 'B-FUTURESSF'];
 var allArrayData = []; //re-arrange data to simple array
+
 const readline = require('readline');
 const rl = readline.createInterface({
     input: process.stdin,

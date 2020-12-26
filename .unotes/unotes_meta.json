@@ -1,7 +1,26 @@
 {
   "name": "",
   "isOrdered": true,
-  "folders": {},
+  "folders": {
+    "quiz1": {
+      "name": "quiz1",
+      "isOrdered": true,
+      "folders": {},
+      "files": {}
+    },
+    "quiz2": {
+      "name": "quiz2",
+      "isOrdered": true,
+      "folders": {},
+      "files": {}
+    },
+    "quiz3": {
+      "name": "quiz3",
+      "isOrdered": true,
+      "folders": {},
+      "files": {}
+    }
+  },
   "files": {
     "README": 0
   }
