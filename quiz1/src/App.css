@@ -1,0 +1,43 @@
+.fixed-col1{
+  width: 200px;
+  border-right: 1px solid black;
+  background-color: #A5AAAB;
+}
+.fixed-col3{
+  width: 300px;
+  background-color: #E6D1CF;
+  border-left: 1px solid black;
+}
+.expand-col2{
+  background-color: #D2A295;
+}
+
+.scrolling-wrapper{
+  overflow-x: hidden;
+}
+
+.height{
+  height: 70vh !important;
+}
+
+@media only screen and (max-width: 600px) {
+  .scrolling-wrapper{
+    overflow-x: auto;
+  }
+
+  .fixed-col1{
+    background-color: #7f8485;
+  }
+  .fixed-col3{
+    background-color:#ccb9b8 ;
+  }
+  .expand-col2{
+   
+    background-color:#c2908c;
+  }
+
+}
+
+
+
+
